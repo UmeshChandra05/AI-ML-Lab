@@ -4,4 +4,5 @@
 3. [Lab 03:](https://colab.research.google.com/drive/1VwqH1u74aUlHUgi6peKXKArzkagHZwg0?usp=sharing) Implement AI Game Strategy using MinMax and Alpha-Beta Search Algorithms.
 4. [Lab 04:](https://colab.research.google.com/drive/1zidwdze1ewIYFFu3ZjbXN0hzrtpw2kJd?usp=sharing) Implement Linear Regression using Boston Housing Data.
 5. [Lab 05:](https://colab.research.google.com/drive/19mNmat6W4jJhfepiXFQ8vOQNo7YMdGE5?usp=sharing) Logistic Regression using Titanic Ship Data.
-6. [Lab 06:](https://colab.research.google.com/drive/18V7STTZpv20nc4C4zp-qhhVSx9NwkCOb?usp=sharing) K-Nearest Neighbour Using Classified Data
+6. [Lab 06:](https://colab.research.google.com/drive/18V7STTZpv20nc4C4zp-qhhVSx9NwkCOb?usp=sharing) K-Nearest Neighbour Using Classified Data.
+7. [Lab 07:](https://colab.research.google.com/drive/1-xeIjP-n2XID56nMhwdwzSclhYW6lEeB?usp=sharing) Machine Learning: Regression.
