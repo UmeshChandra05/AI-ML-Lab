@@ -1,6 +1,6 @@
 # AI-ML-Lab
-1. [Lab 01:]() Introduction to Python Packages - Numpy, Pandas, Mathplotlib, and Acsecss to Data Souces.
-2. [Lab 02:]() Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python.
+1. [Lab 01:](https://colab.research.google.com/drive/1gdaqvRrdX07isUuhmQaQO5MFih3UU14d?usp=sharing) Introduction to Python Packages - Numpy, Pandas, Mathplotlib, and Acsecss to Data Souces.
+2. [Lab 02:](https://colab.research.google.com/drive/1c1RnOkhGRmgitCGCZB0nqCISpciUNU2z?usp=sharing) Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python.
 3. [Lab 03:](https://colab.research.google.com/drive/1VwqH1u74aUlHUgi6peKXKArzkagHZwg0?usp=sharing) Implement AI Game Strategy using MinMax and Alpha-Beta Search Algorithms.
 4. [Lab 04:](https://colab.research.google.com/drive/1zidwdze1ewIYFFu3ZjbXN0hzrtpw2kJd?usp=sharing) Implement Linear Regression using Boston Housing Data.
 5. [Lab 05:](https://colab.research.google.com/drive/19mNmat6W4jJhfepiXFQ8vOQNo7YMdGE5?usp=sharing) Logistic Regression using Titanic Ship Data.
