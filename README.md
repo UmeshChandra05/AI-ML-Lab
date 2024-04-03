@@ -7,3 +7,5 @@
 6. [Lab 06:](https://colab.research.google.com/drive/18V7STTZpv20nc4C4zp-qhhVSx9NwkCOb?usp=sharing) Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset.
 7. [Lab 07:](https://colab.research.google.com/drive/1-xeIjP-n2XID56nMhwdwzSclhYW6lEeB?usp=sharing) Implement Support Vector Machine using Breast Cancer Data.
 8. [Lab 08:](https://colab.research.google.com/drive/16QjHbg585xx1qeFw3uCFxqt2rYzDzX8V?usp=sharing) Implement Decision Tree Classifier using Lending Club Data.
+9. [Lab 09:](https://colab.research.google.com/drive/1ZKXzDgkXlxS6nS5pgkp__y965WD8nKDJ?usp=sharing) Implement Random Forest Ensemble Classifier using Lending Club Data.
+10. [Lab 10:]()
