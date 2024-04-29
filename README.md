@@ -10,6 +10,6 @@
 9. [Lab 09:](https://colab.research.google.com/drive/1ZKXzDgkXlxS6nS5pgkp__y965WD8nKDJ?usp=sharing) Implement Random Forest Ensemble Classifier using Lending Club Data.
 10. [Lab 10:](https://colab.research.google.com/drive/1lQGcBK6vxJuBQ2OQppYCQRIXWclfQUD_?usp=sharing) Implement K-Means Clustering using Iris Data.
 
-## AI-ML Course Project
-[Project:](https://colab.research.google.com/drive/1jRuDD222GYDLbXk9ZfEy8Rq-R1ohhSdn?usp=sharing). <b>Prediction of Authorized personnel using ML</b>
+# AI-ML Course Project
+[Project Title:](https://colab.research.google.com/drive/1jRuDD222GYDLbXk9ZfEy8Rq-R1ohhSdn?usp=sharing). <b>Prediction of Authorized personnel using ML</b></br>
 A Machine Learning Model capable of learning from historical data to predict approval or denial for a new set of employees.
