@@ -11,5 +11,5 @@
 10. [Lab 10:](https://colab.research.google.com/drive/1lQGcBK6vxJuBQ2OQppYCQRIXWclfQUD_?usp=sharing) Implement K-Means Clustering using Iris Data.
 
 # AI-ML Course Project
-[Project Title:](https://colab.research.google.com/drive/1jRuDD222GYDLbXk9ZfEy8Rq-R1ohhSdn?usp=sharing). <b>Prediction of Authorized personnel using ML</b></br>
+[Project Title:](https://colab.research.google.com/drive/1jRuDD222GYDLbXk9ZfEy8Rq-R1ohhSdn?usp=sharing) <b>Prediction of Authorized personnel using ML</b></br>
 A Machine Learning Model capable of learning from historical data to predict approval or denial for a new set of employees.
